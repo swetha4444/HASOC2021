@@ -11,6 +11,9 @@ Non Hate-Offensive - This post does not contain any Hate speech, profane, offens
 Hate and Offensive - This post contains Hate, offensive, and profane content.
 <br>
 
+![image](https://user-images.githubusercontent.com/68152189/130403692-457e5b30-939e-4c68-b535-073b83ea322f.png)
+
+
 ## Sub-task B: Discrimination between Hate, profane and offensive posts
 This sub-task is a fine-grained classification offered for English, German, and Hindi. Hate-speech and offensive posts from the sub-task A are further classified into three categories:
 
