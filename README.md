@@ -9,7 +9,6 @@ This task focus on Hate speech and Offensive language identification offered for
 Non Hate-Offensive - This post does not contain any Hate speech, profane, offensive content.
 * HOF :
 Hate and Offensive - This post contains Hate, offensive, and profane content.
-<br>
 
 ### Using ML Models
 Model | Accuracy
