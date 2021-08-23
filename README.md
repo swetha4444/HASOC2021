@@ -11,6 +11,7 @@ Non Hate-Offensive - This post does not contain any Hate speech, profane, offens
 Hate and Offensive - This post contains Hate, offensive, and profane content.
 
 ### Using ML Models
+<a href="./Subtask A/ml_techniques_A.ipynb"> IPYNB File </a>
 Model | Accuracy
 ------------- | -------------
 Gaussian NM  | 50%
