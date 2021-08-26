@@ -53,4 +53,4 @@ SVC | 79%
 Decision Tree | 71%
 Random Forest  | 76.6%
 LSTM | 
-BERT  | 78%
+BERT  | 61%
