@@ -31,7 +31,7 @@ SVC | 79%
 Decision Tree | 71%
 Random Forest  | 76.6%
 LSTM | 
-BERT  | 8%
+BERT  | 78%
 
 
 ## Sub-task B: Discrimination between Hate, profane and offensive posts
