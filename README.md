@@ -43,3 +43,14 @@ Hate speech:- Posts under this class contain Hate speech content.
 Offenive:- Posts under this class contain offensive content.
 * PRFN :
 Profane:- These posts contain profane words.
+
+Model | Accuracy
+------------- | -------------
+Gaussian NM  | 50%
+Logistic Regression  | 80%
+KNN | 76%
+SVC | 79%
+Decision Tree | 71%
+Random Forest  | 76.6%
+LSTM | 
+BERT  | 78%
