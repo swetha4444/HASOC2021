@@ -30,7 +30,7 @@ KNN | 76%
 SVC | 79%
 Decision Tree | 71%
 Random Forest  | 76.6%
-LSTM | 
+LSTM | 78%
 BERT  | 78%
 
 
@@ -51,5 +51,5 @@ KNN | 76%
 SVC | 79%
 Decision Tree | 71%
 Random Forest  | 76.6%
-LSTM | 
+LSTM | 60%
 BERT  | 61%
