@@ -55,6 +55,6 @@ LSTM | 60%
 BERT  | 61%
 
 ### Proposed Model
-<img width="500px" src="https://user-images.githubusercontent.com/68152189/131159936-57007383-56cd-4976-ac71-4af4f262fc8a.png">
+<img width="500px" src="https://user-images.githubusercontent.com/68152189/131165499-298364ed-0921-40b4-bec9-7e88fbd04002.png">
 
 
