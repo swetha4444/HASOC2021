@@ -46,9 +46,9 @@ Profane:- These posts contain profane words.
 
 Model | Accuracy
 ------------- | -------------
-Gaussian NM  |
-KNN | 
-SVC | 
+Gaussian NM  | 45%
+KNN | 56%
+SVC | 67%
 Decision Tree | 
 Random Forest  | 
 LSTM | 60%
