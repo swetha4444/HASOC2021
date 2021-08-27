@@ -49,7 +49,7 @@ Model | Accuracy
 Gaussian NM  | 45%
 KNN | 56%
 SVC | 67%
-Decision Tree | 
-Random Forest  | 
+Decision Tree | 50%
+Random Forest  | 66%
 LSTM | 60%
 BERT  | 61%
