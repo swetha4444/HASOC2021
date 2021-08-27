@@ -1,3 +1,4 @@
+![Untitled drawing](https://user-images.githubusercontent.com/68152189/131159587-1ff426ad-4f2d-431d-ba85-6313212551cd.png)
 # HASOC 2021
 
 https://hasocfire.github.io/hasoc/2021/important_dates.html
@@ -53,3 +54,5 @@ Decision Tree | 50%
 Random Forest  | 66%
 LSTM | 60%
 BERT  | 61%
+
+![Untitled drawing](https://user-images.githubusercontent.com/68152189/131159604-db454e3d-5322-4f6d-95b5-3fec5cfe7e08.png)
