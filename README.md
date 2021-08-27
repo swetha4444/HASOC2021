@@ -54,6 +54,6 @@ Random Forest  | 66%
 LSTM | 60%
 BERT  | 61%
 
-## Proposed Model
+### Proposed Model
 ![Untitled drawing (1)](https://user-images.githubusercontent.com/68152189/131159936-57007383-56cd-4976-ac71-4af4f262fc8a.png)
 
