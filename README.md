@@ -58,6 +58,6 @@ BERT  | 61%
 Proposed Model  |
 
 ### Proposed Model
-<img width="500px" src="https://user-images.githubusercontent.com/68152189/131165499-298364ed-0921-40b4-bec9-7e88fbd04002.png">
+<img width="500px" src="https://user-images.githubusercontent.com/68152189/131229132-34be0315-c784-4a50-91a8-910ef2152a65.png">
 
 
