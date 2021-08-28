@@ -58,12 +58,11 @@ BERT  | 61%
 Proposed Model  |
 
 ### Proposed Model
+<img width="500px" src="https://user-images.githubusercontent.com/68152189/131229132-34be0315-c784-4a50-91a8-910ef2152a65.png">
+
 Model | Accuracy
 ------------- | -------------
 BERT_A  | 78%
 BERT_OFFN/HATE  | 79% (2 epochs)
 Profanity  | 92%
-
-<img width="500px" src="https://user-images.githubusercontent.com/68152189/131229132-34be0315-c784-4a50-91a8-910ef2152a65.png">
-
 
