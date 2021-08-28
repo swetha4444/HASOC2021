@@ -55,7 +55,7 @@ Decision Tree | 50%
 Random Forest  | 66%
 LSTM | 60%
 BERT  | 61%
-Proposed Model  |
+Proposed Model  | 63%
 
 ### Proposed Model
 <img width="500px" src="https://user-images.githubusercontent.com/68152189/131229132-34be0315-c784-4a50-91a8-910ef2152a65.png">
