@@ -12,6 +12,8 @@ https://hasocfire.github.io/hasoc/2021/important_dates.html
 * <a href="./Subtask B/DL_LSTM for task B.ipynb">DL_LSTM for task B.ipynb </a> : Applying DL LSTM model to classify the data and find the accuracy for Subtask B.
 * <a href="./Subtask A/BERT_A.ipynb">BERT_A.ipynb</a> : Applying BERT model to classify the data and find the accuracy for Subtask A.
 * <a href="./Subtask B/BERT_B.ipynb">BERT_B.ipynb</a> : Applying BERT model to classify the data and find the accuracy for Subtask B.
+* <a href="./Subtask B/Proposed Model">Proposed Model Folder</a> : Files related to the Proposed Model:
+  * <a href="./Subtask B/Proposed Model/Profanity_Check.ipynb">Profanity_Check.ipynb</a> : Survey of various pre-trained models/libraries for profanity check.
 
 
 ## Sub-task A: Identifying Hate, offensive and profane content
