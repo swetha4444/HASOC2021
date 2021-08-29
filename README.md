@@ -28,10 +28,9 @@ Model | Accuracy
 ------------- | -------------
 Gaussian NM  | 50%
 Logistic Regression  | 80%
-KNN | 
-SVC |
-Decision Tree | 
-Random Forest  | 
+KNN | 78%
+SVC | 84%
+Random Forest  | 82%
 LSTM | 78%
 BERT  | 78%
 
