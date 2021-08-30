@@ -48,10 +48,10 @@ Profane:- These posts contain profane words.
 Model | Accuracy
 ------------- | -------------
 Gaussian NM  | 45%
-KNN | 
-SVC | 
-Decision Tree | 
-Random Forest  | 
+KNN | 64%
+SVC | 66%
+Decision Tree | 53%
+Random Forest  | 69%
 LSTM | 60%
 BERT  | 61%
 Proposed Model  | 63%
