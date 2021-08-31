@@ -1,5 +1,6 @@
 # HASOC 2021
 https://hasocfire.github.io/hasoc/2021/important_dates.html
+#test
   
 ## Sub-task A: Identifying Hate, offensive and profane content
 This task focus on Hate speech and Offensive language identification offered for English, German, and Hindi. Sub-task A is coarse-grained binary classification in which participating system are required to classify tweets into two classes, namely: Hate and Offensive (HOF) and Non- Hate and offensive (NOT).
