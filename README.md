@@ -1,6 +1,8 @@
 # HASOC 2021
 
 https://hasocfire.github.io/hasoc/2021/important_dates.html
+
+Offensive and problematic content including insulting, hurtful, derogatory or obscene user contributions are pervasive in social media. Societies need to develop adequate response mechanisms in order to find a balance between freedom of expression on one side and the ability to live without oppressive remarks on the other side. A requirement for any response is robust technology for identifying problematic content automatically. HASOC provides a forum for developing and testing text classification systems for various languages
   
 ## Sub-task A: Identifying Hate, offensive and profane content
 This task focus on Hate speech and Offensive language identification offered for English, German, and Hindi. Sub-task A is coarse-grained binary classification in which participating system are required to classify tweets into two classes, namely: Hate and Offensive (HOF) and Non- Hate and offensive (NOT).
