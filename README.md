@@ -66,7 +66,7 @@ B  | BERT | 57% | 13
 ## Files: 
 
 * <a href="./Preprocess.ipynb"> Preprocess.ipynb </a> : Preprocessing the data.
-* <a href="./dataAnalysis_B.ipynb"> dataAnalysis.ipynb </a> : Analysing the data.
+* <a href="./dataAnalysis.ipynb"> dataAnalysis.ipynb </a> : Analysing the data.
 * <a href="./Subtask A/ml_techniques_A.ipynb">ml_techniques_A.ipynb </a> : Applying ML models to classify the data and find the accuracy for Subtask A.
 * <a href="./Subtask B/ml_techniques_B.ipynb">ml_techniques_B.ipynb </a> : Applying ML models to classify the data and find the accuracy for Subtask B.
 * <a href="./Subtask A/DL_LSTM for task A.ipynb">DL_LSTM for task A.ipynb </a> : Applying DL LSTM model to classify the data and find the accuracy for Subtask A.
