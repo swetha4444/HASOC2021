@@ -80,4 +80,4 @@ B  | BERT | 57% | 13
 
 
 Google Doc:
-https://meet.google.com/hox-uzsc-rgt
+https://docs.google.com/document/d/1a_VLARG6A9ZpEpvXhh40dcZrN4EVe_Qf1-oNMj_ODVo/edit#
