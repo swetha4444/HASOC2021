@@ -57,10 +57,10 @@ Profanity  | 92%
 ## Results
 
 
-Sub-Task    |     Classifier      |   Macro F1-score   | Place in leaderboard 
-------------|---------------------|--------------------|--------------------
-A  | BERT | 75% | 38
-B  | BERT | 57% | 24
+Sub-Task    |     Classifier      |   Macro F1-score  
+------------|---------------------|--------------------
+A  | BERT | 75%
+B  | BERT | 57%
 
 
 ## Code Files: 
