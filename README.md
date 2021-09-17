@@ -76,3 +76,8 @@ B  | BERT | 57% | 13
 * <a href="./Subtask B/Proposed Model">Proposed Model (Folder)</a> : Files related to the Proposed Model:
   * <a href="./Subtask B/Proposed Model/profanity_check.ipynb">profanity_check.ipynb</a> : Survey of various pre-trained models/libraries for profanity check.
   * <a href="./Subtask B/Proposed Model/ProposedModel.ipynb">ProposedModel.ipynb</a> : Implementation of the proposed model.
+
+
+
+Google Doc:
+https://meet.google.com/hox-uzsc-rgt
