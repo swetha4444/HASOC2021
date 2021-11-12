@@ -68,8 +68,8 @@ B  | BERT | 57%
 * <a href="./Subtask B/ml_techniques_B.ipynb">ml_techniques_B.ipynb </a> : Applying ML models to classify the data and find the accuracy for Subtask B.
 * <a href="./Subtask A/DL_LSTM for task A.ipynb">DL_LSTM for task A.ipynb </a> : Applying DL LSTM model to classify the data and find the accuracy for Subtask A.
 * <a href="./Subtask B/DL_LSTM for task B.ipynb">DL_LSTM for task B.ipynb </a> : Applying DL LSTM model to classify the data and find the accuracy for Subtask B.
-* <a href="./Subtask A/BERT_A.ipynb">BERT_A.ipynb</a> : Applying BERT model to classify the data and find the accuracy for Subtask A.
-* <a href="./Subtask B/BERT_B.ipynb">BERT_B.ipynb</a> : Applying BERT model to classify the data and find the accuracy for Subtask B.
+* <a href="./Subtask A/BERT_A.ipynb">BERT_A.ipynb</a> : Applying DistilBERT model to classify the data and find the accuracy for Subtask A.
+* <a href="./Subtask B/BERT_B.ipynb">BERT_B.ipynb</a> : Applying DistilBERT model to classify the data and find the accuracy for Subtask B.
 * <a href="./Subtask B/Proposed Model">Proposed Model (Folder)</a> : Files related to the Proposed Model:
   * <a href="./Subtask B/Proposed Model/profanity_check.ipynb">profanity_check.ipynb</a> : Survey of various pre-trained models/libraries for profanity check.
   * <a href="./Subtask B/Proposed Model/ProposedModel.ipynb">ProposedModel.ipynb</a> : Implementation of the proposed model.
