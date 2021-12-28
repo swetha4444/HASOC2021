@@ -56,8 +56,8 @@ Profanity  | 92%
 
 Sub-Task    |     Classifier      |   Macro F1-score  
 ------------|---------------------|--------------------
-A  | BERT | 75%
-B  | BERT | 57%
+A  | DistilBERT | 75%
+B  | DistilBERT | 57%
 
 
 ## Code Files: 
