@@ -42,7 +42,7 @@ BERT  | 61%
 Proposed Model  | 63%
 
 ### Proposed Model:
-<img width="500px" src="https://user-images.githubusercontent.com/68152189/141431807-39d55624-2500-4860-8415-8c8600c3b1df.png">
+<img width="700px" src="https://user-images.githubusercontent.com/68152189/141431807-39d55624-2500-4860-8415-8c8600c3b1df.png">
 
 Model | Accuracy
 ------------- | -------------
