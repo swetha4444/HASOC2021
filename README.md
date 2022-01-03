@@ -60,7 +60,8 @@ A  | DistilBERT | 75%
 B  | DistilBERT | 57%
 
 
-## Publication -Cite our paper
+## Publication 
+##### Cite our paper
 ```
 S. Saseendran, S. R, S. V, S. Giri, Classification of Hate Speech and Offensive Content 
 using an approach based on DistilBERT, in: Forum for Information Retrieval Evaluation
